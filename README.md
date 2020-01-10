@@ -29,7 +29,7 @@
 # yum -y update
 ```
 
-# 安装epel源【Extra Packages for Enterprise Linux】由Fedora社区打造,为RHEL及衍生发行版如:CentOS等提供高质量软件包的项目
+## 安装epel源【Extra Packages for Enterprise Linux】由Fedora社区打造,为RHEL及衍生发行版如:CentOS等提供高质量软件包的项目
 ```
 # yum -y install epel-release
 ```
